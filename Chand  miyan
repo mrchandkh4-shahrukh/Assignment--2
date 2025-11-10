@@ -16,7 +16,7 @@ int main() {
         float marks;
     };
 
-    struct student s1 = {1, "Zarmeena", 96.8};
+    struct student s1 = {1, "Chand miyan", 96.8};
 
     printf("Roll: %d\n", s1.roll);
     printf("Name: %s\n", s1.name);
@@ -28,7 +28,7 @@ int main() {
 /*
 Output:
 Roll: 1
-Name: Zarmeena
+Name: Chand miyan 
 Marks:96.8
 */
 // Q2. What do you mean by Array and Array of Pointers?
